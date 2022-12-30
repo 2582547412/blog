@@ -1,6 +1,6 @@
 <template>
     <div class="footer">
-      <span style="color: #FFFFFF;line-height:40px;font-size: 12px;">Copyright © 2021-2025 Ning All Rights Reserved.</span>
+      <a href="https://beian.miit.gov.cn"><span style="color: #FFFFFF;line-height:40px;font-size: 12px;">皖ICP备2022017322号-1</span></a>
     </div>
 </template>
 
