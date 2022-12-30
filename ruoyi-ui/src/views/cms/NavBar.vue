@@ -111,12 +111,12 @@
             path: '/cms/main/message',
             icon: 'el-icon-chat-dot-round',
           },
-          {
-            id: 3,
-            authName: '文档',
-            path: '/cms/doucument',
-            icon: 'el-icon-document',
-          },
+          // {
+          //   id: 3,
+          //   authName: '文档',
+          //   path: '/cms/doucument',
+          //   icon: 'el-icon-document',
+          // },
         ],
         // 查询参数
         queryParams: {
